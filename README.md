@@ -12,6 +12,8 @@
 4. **Assignment 4:** `NumPy-Introduction`
 5. **Assignment 5:** `NumPy-Introduc on-2`
 6. **Assignment 6:** `Matplotlib and Seaborn`
+7. **Assignment 7:**
+8. **Assignment 8:**
 
 ## Notes:
 - This repository contains all the work submitted as part of the Cognitive Computing lab.
